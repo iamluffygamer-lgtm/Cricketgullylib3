@@ -1,0 +1,6 @@
+{
+  "name": "Gully Cricket Scorer",
+  "description": "A production-grade cricket scoring platform for local matches with real-time stats, ball-by-ball tracking, and offline persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
